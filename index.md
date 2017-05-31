@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 
 
-You can use the [editor on GitHub](https://github.com/timesubject/timesubject.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+亲爱的读者朋友（并没有），当你看到这个主页时， [我的不老歌账号](http://bulaoge.net/?timesubject) 可能已经被封了。不知道出于什么理由，我在紧张刺激的复习周试图建一个备份用个人网站。尽管我好像没有开过车，但是不会有人像我一样放飞自我用github开车吧……
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
